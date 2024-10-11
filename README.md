@@ -1,5 +1,6 @@
 # ToDolistll
-Simple to do list aplication in terminal
+Simple to-do list application in terminal
+
 To view ToDos:
 todos.py
 
